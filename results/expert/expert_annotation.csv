@@ -1,0 +1,101 @@
+code,row,expert_label,expert_confidence,expert_second_area,expert_justification
+D001,142,T2,3,,Formadora de profesores; creencias y conocimiento profesional del formador en su práctica.
+D002,49,T3,3,,Conocimiento de una profesora universitaria sobre sistemas de ecuaciones y métodos matriciales.
+D003,201,T1,2,T4,Tarea para la formación con futuros profesores; tensiones sustentadas en creencias (dimensión afectiva).
+D004,235,T2,3,,PCK de un formador de maestros al enseñar simetría; tres categorías del conocimiento del formador.
+D005,258,T2,3,T4,Sin resumen. El título indica un marco para el conocimiento especializado del formador (MTESK).
+D006,70,T3,3,,"Revisión del conocimiento del profesor que enseña Álgebra, incluidos estudios MTSK."
+D007,140,T2,2,T1,Interacciones promovidas por formadores ante un error en formación continua; foco en el formador.
+D008,182,T1,2,,"Revisión sistemática sobre desarrollo profesional; no centrado en MTSK, pero su foco es formación continua."
+D009,117,T5,3,T4,Extensión del MTSK a la estadística (modelo STSK).
+D010,112,T3,2,T4,"MTSK en Educación Infantil, foco en dominio matemático; podría orientarse a adaptar el modelo a esta etapa."
+D011,199,T5,2,T4,"Modelo integrador que articula MTSK con comunidades de práctica e identidad (Wenger, Van Zoest y Bohl)."
+D012,128,T1,3,T3,Diseño de una Tarea para la Formación (TpF) sobre pensamiento algebraico.
+D013,175,T1,2,T4,Perfiles de autoeficacia de maestros en formación inicial; incorpora lo afectivo pero el foco es formativo.
+D014,228,T2,3,,Reflexión sobre qué necesitan saber los formadores de profesores y sus perfiles.
+D015,155,T2,3,T4,Modelo MTESK como extensión del MTSK para el formador; foco en su PCK.
+D016,9,T3,3,,Conocimiento especializado de maestras noveles sobre relaciones área-perímetro en Primaria.
+D017,88,T5,2,T2,Relaciones ETM-MTSK aplicadas a un profesor y a un formador; predomina la articulación de marcos.
+D018,79,T3,2,T1,Caracteriza KoT y KSM de estudiantes para maestro sobre áreas de figuras planas.
+D019,7,T1,2,,Comprensiones de futuros profesores sobre resolución de problemas en formación inicial; MTSK poco explícito.
+D020,77,T3,1,T1,Conocimiento matemático fundamental aditivo de estudiantes de Magisterio; no explicita MTSK; implicaciones formativas.
+D021,90,T2,3,,Conocimiento de formadores en Lesson Study (doble mirada).
+D022,113,T4,1,T3,Revisión sistemática del uso del MTSK; ningún área encaja del todo; orientada a consolidar el modelo.
+D023,172,T2,3,T1,Acciones y prácticas de un formador en formación continua sobre álgebra.
+D024,100,T3,1,T4,Relación MTSK-práctica de aula en profesores en ejercicio; sin tema ni etapa concretos en el resumen.
+D025,103,T3,3,,Capítulo sobre el conocimiento especializado del profesor acerca de funciones.
+D026,33,T5,3,,Potencialidades del MTSK para un modelo de conocimiento especializado en Lengua Portuguesa.
+D027,236,T2,3,,Revisión de investigación sobre el conocimiento del formador de profesores de matemáticas.
+D028,163,T1,2,T3,Título sobre formación inicial y diseño de actividades; el resumen describe un estudio con niños de Infantil (incongruente).
+D029,61,T3,2,T5,Profesor universitario de estadística (medidas de centralización y dispersión) analizado con MTSK.
+D030,3,T4,2,T5,Método para relacionar subdominios MTSK con concepciones (CEAM); refina el núcleo de creencias.
+D031,159,T3,2,T4,KoT de un profesor de 8º sobre números racionales; declara contribuir a refinar el modelo.
+D032,78,T3,2,T1,Sin resumen. Título: conocimiento matemático y didáctico de futuros maestros sobre fracciones y decimales.
+D033,247,T4,1,,Estudio bibliométrico de la producción MTSK; el resumen aportado no corresponde al título.
+D034,187,T3,2,T4,Relaciones entre subdominios de una maestra sobre estructura multiplicativa; aparecen aspectos emocionales.
+D035,241,T4,3,,Sin resumen. Capítulo dedicado al subdominio KSM.
+D036,51,T3,2,T1,Revisión de tesis brasileñas sobre conocimiento para enseñar estadística; foco en formación y desarrollo profesional.
+D037,127,T5,3,,Primera adaptación del MTSK a la biología (BTSK).
+D038,30,T3,2,T1,"Conocimiento de maestras de Infantil sobre clasificación de figuras, en formación continua con TpF."
+D039,53,T3,3,,PCK de dos maestros sobre multiplicación y división en planificaciones de clase.
+D040,209,T2,2,T3,Formador matemático: MK y creencias sobre demostración en Teoría de Números.
+D041,149,T5,2,T4,Marco que articula MTSK con los esquemas de Piaget para niveles de complejidad de conexiones.
+D042,95,T1,2,T3,"Conocimiento especializado en formación inicial de maestros (Escuela Normal), estudio correlacional."
+D043,137,T2,3,,Conocimiento de formadores sobre la práctica del noticing en Lesson Study.
+D044,243,T4,3,,Sin resumen. Capítulo dedicado al subdominio KFLM.
+D045,191,T1,2,T4,Relaciones entre subdominios del PCK en futuros profesores para mejorar el programa del curso.
+D046,40,T2,3,,Subdominios del conocimiento pedagógico del contenido de la formación en una formadora investigadora.
+D047,10,T4,2,T5,Relaciones entre subdominios MTSK y concepciones (CMTL) integradas en el modelo.
+D048,116,T4,3,,"Antecedentes, estructura y posicionamientos del modelo MTSK."
+D049,48,T2,3,,"Conocimiento del formador sobre la construcción de la identidad docente, hacia un modelo del formador."
+D050,169,T1,2,T3,Análisis curricular (Currículo da Cidade de São Paulo) de conocimientos requeridos al profesor.
+D051,259,T1,1,T4,Sin resumen. El título sitúa la conexión MK-PCK en formación de profesores.
+D052,225,T1,2,T4,Validación de escalas de autoeficacia de maestros en formación inicial alineadas con el MTSK.
+D053,206,T1,2,T3,Transformación del MTSK de futuras maestras sobre división de fracciones durante un curso.
+D054,275,T2,3,T4,Fundamentos teóricos para un modelo de conocimiento especializado del formador.
+D055,165,T1,3,,MTSK en un curso de formación continua y diseño de tareas formativas.
+D056,192,T5,3,T4,Relaciones teóricas entre MTSK y Conocimiento Interpretativo.
+D057,20,T4,3,,"Incorporación del dominio afectivo al MTSK, ejemplificado con KMT."
+D058,57,T5,2,T3,Articulación MTSK-ETM en una sesión universitaria de álgebra lineal.
+D059,136,T1,3,,Tareas formativas para maestros sobre pensamiento espacial y métrico.
+D060,260,T3,2,T1,"Revisión sobre conocimiento para enseñar área; no usa MTSK (noticing, juego de marcos)."
+D061,229,T3,2,T1,KoT y KFLM de profesores al predecir el trabajo de estudiantes en cálculo; contexto de formación continua.
+D062,242,T4,3,,Sin resumen. Capítulo dedicado al subdominio KPM.
+D063,131,T5,2,T3,Relación de trabajo entre teoría APOE y MTSK en límite de una función.
+D064,98,T3,2,T4,Conocimiento de profesora de Infantil sobre cuerpos geométricos; también herramientas metodológicas.
+D065,59,T3,3,,Profesor experto de Primaria enseñando números racionales.
+D066,94,T4,3,,Bases teóricas y metodológicas del PCK dentro del MTSK.
+D067,24,T5,3,T3,Relaciones ETM-MTSK para comprender la práctica docente.
+D068,67,T4,1,T1,Libro general sobre fundamentos y aplicaciones del MTSK; abarca varias áreas.
+D069,1,T5,2,T1,Conexiones entre noticing y MTSK con futuras maestras sobre pensamiento algebraico.
+D070,21,T1,2,T5,Ensayo que articula MTSK y Lesson Study orientado a la formación del profesorado.
+D071,92,T2,3,,Conocimiento del formador de maestros en formación inicial (estudio de caso).
+D072,208,T2,3,,Trayectorias formativas de formadores latinoamericanos.
+D073,133,T3,2,T5,Cuestionario MTSK-estocástico para Primaria; combina MTSK con EIEM.
+D074,265,T3,2,,Sin resumen. Título: conocimiento del profesor en la enseñanza del cálculo diferencial.
+D075,143,T2,3,,Conocimiento de una formadora investigadora de la docencia.
+D076,15,T3,3,,Conocimiento especializado de un profesor sobre el concepto de variable en 8º grado.
+D077,60,T3,3,,Profesor universitario de cálculo vectorial y derivadas en varias variables.
+D078,217,T2,3,T4,Revisión teórica hacia un modelo de conocimiento del formador (MTEK).
+D079,166,T1,2,T3,KMT en formación de maestras de Infantil sobre localización.
+D080,180,T4,3,,Propuesta de categorías del KPM (prácticas de demostrar y definir).
+D081,171,T5,3,,Adaptación del MTSK a la biología (BTSK).
+D082,23,T2,3,,PCK de un formador de profesores de Secundaria.
+D083,11,T1,1,T3,Análisis de libros de texto (material curricular) sobre racionales desde el MTSK.
+D084,31,T5,3,,BTSK aplicado a embriología humana.
+D085,134,T5,3,,"ETM, MTSK y recursos tecnológicos en geometría."
+D086,248,T4,1,,Trayectoria académica de José Carrillo y comunidad MTSK; ningún área encaja claramente.
+D087,16,T5,3,,Transposición del MTSK a Química y Física mediante PaP-eR.
+D088,186,T5,2,T4,Relación teórica MTSK-Análisis Didáctico; aporta descriptores de subdominios.
+D089,52,T3,3,,PCK de una profesora sobre localización en el plano cartesiano.
+D090,46,T3,3,,KMT de profesoras de bachillerato en álgebra lineal (ejemplos y ayudas).
+D091,219,T3,3,,Conocimiento de un profesor de Secundaria sobre el teorema de Thales.
+D092,277,T2,3,,Creencias y actuación en el aula de formadores.
+D093,135,T4,2,,Estrategia metodológica para investigar indicios en análisis MTSK.
+D094,261,T5,2,T4,Comparación entre ChatGPT y un experto al analizar conocimiento MTSK (tecnología).
+D095,26,T3,1,T4,Creencias de profesores de secundaria hondureños; no menciona MTSK ni refina el modelo.
+D096,121,T5,3,,Papel del MTSK en las interrelaciones entre Espacios de Trabajo Matemático.
+D097,203,T5,2,T3,Conocimiento especializado e interdisciplinar en actividad STEAM; sugiere reforzar categorías.
+D098,50,T4,2,T3,KPM de una profesora de secundaria en geometría; orientado a caracterizar el subdominio.
+D099,22,T5,3,,Avances en la relación MTSK-ETM (conexión entre teorías).
+D100,160,T3,2,T1,Conocimiento de estudiantes para maestro sobre proporcionalidad en una tarea.
