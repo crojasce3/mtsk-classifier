@@ -67,9 +67,9 @@ Two runs of the cross-validation protocol on the same GPU type reproduced the pr
 
 ## Model and interface
 
-- Fine-tuned classifier weights: https://huggingface.co/crojasc3/mtsk-classifier
-- Interface for the fine-tuned classifier: https://huggingface.co/spaces/crojasc3/mtsk-classifier
-- Interface for the prompted LLM: https://huggingface.co/spaces/luzelorreaga/clasificador-mtsk-deepseek
+   - Fine-tuned classifier weights: https://huggingface.co/crojasc2/mtsk-classifier
+   - Interface for the fine-tuned classifier: https://huggingface.co/spaces/crojasc2/clasificador-mtsk
+   - Interface for the prompted LLM: https://huggingface.co/spaces/luzelorreaga/clasificador-mtsk-deepseek
 
 ## How to cite
 
