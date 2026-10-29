@@ -9,6 +9,14 @@ import os
 import re
 import tempfile
 
+# `spaces` must be imported before torch so that the Space also runs on ZeroGPU hardware.
+try:
+    import spaces
+    GPU = spaces.GPU
+except ImportError:          # running locally or on CPU without the `spaces` package
+    def GPU(fn=None, **kwargs):
+        return fn if fn is not None else (lambda f: f)
+
 import gradio as gr
 import numpy as np
 import pandas as pd
@@ -30,7 +38,8 @@ AREAS = {
 
 # ── Carga del modelo ─────────────────────────────────────────────────────────
 torch.set_num_threads(max(1, os.cpu_count() or 1))
-DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+ZERO_GPU = os.environ.get("SPACES_ZERO_GPU", "").lower() in ("1", "true")
+DEVICE = torch.device("cuda" if ZERO_GPU or torch.cuda.is_available() else "cpu")
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_REPO)
 backbone = AutoModel.from_pretrained(MODEL_REPO)
@@ -106,6 +115,7 @@ def explain(text, target_idx, max_evals=300):
 
 
 # ── Clasificación de un documento ────────────────────────────────────────────
+@GPU(duration=120)
 def classify(title, abstract, keywords, do_explain):
     if not (title or abstract or keywords):
         raise gr.Error("Escriba al menos el título del documento.")
@@ -144,6 +154,7 @@ def _find(df, names):
     return None
 
 
+@GPU(duration=120)
 def classify_file(file):
     if file is None:
         raise gr.Error("Suba un archivo .xlsx o .csv.")
