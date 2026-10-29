@@ -1,0 +1,12 @@
+# Copyrighted texts: never commit the corpus or SHAP values
+*.xlsx
+shap_values.pkl
+*.pkl
+# Secrets
+.env
+*api_key*
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+outputs_cv*/
+outputs_modelo_final*/

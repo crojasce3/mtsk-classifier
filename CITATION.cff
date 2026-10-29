@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or these materials, please cite the associated article."
+title: "Multilingual and explainable classification of MTSK research: code and materials"
+authors:
+  - family-names: "Rojas Celis"
+    given-names: "Carolina"
+    orcid: "https://orcid.org/0000-0002-9488-9159"
+    affiliation: "Universidad El Bosque"
+  - family-names: "Elorreaga Rodríguez"
+    given-names: "Luz Maricel"
+    orcid: "https://orcid.org/0009-0004-1566-5125"
+    affiliation: "Universidad El Bosque"
+  - family-names: "Hortúa"
+    given-names: "Héctor Javier"
+    orcid: "https://orcid.org/0000-0002-3396-2404"
+    affiliation: "Universidad El Bosque"
+license: MIT
+repository-code: "https://github.com/crojasce3/mtsk-classifier"
+version: "1.0.0"
+date-released: "2026-10-29"
